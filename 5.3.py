@@ -1,0 +1,5 @@
+vi=int(input('Vi :'))
+t=int(input('t :'))
+a=int(input('a :'))
+d=(vi*t)+((a*(t**2))*1/2)
+print('Distance : ',d)
